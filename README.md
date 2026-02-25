@@ -1,30 +1,55 @@
-# Hi 👋, I'm YOUR_NAME
-### YOUR_ROLE (Example: Python Full Stack Developer | AI Enthusiast)
+<h1 align="center">Hi 👋, I'm Aryan</h1>
+<h3 align="center">Python Full Stack Developer | AI Enthusiast 🚀</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Full+Stack+Developer;AI+Learner;Open+to+Opportunities" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 YOUR_EDUCATION  
-- 🔭 Working on YOUR_PROJECT  
-- 🌱 Learning YOUR_TECH_STACK  
-- 👯 Open to collaboration in YOUR_FIELD  
-- 💬 Skills: YOUR_SKILLS  
-- 📫 Reach me: YOUR_EMAIL  
+### 👨‍💻 About Me
+- 🎓 BCA Graduate  
+- 🔭 Currently working on *Skin Disease Detection System (Flask + EfficientNetV2B0)*
+- 🌱 Learning *Python Full Stack + SQL*
+- 👯 Looking to collaborate on *AI & Web Projects*
+- 💬 Ask me about *Python, SQL, Django, Web Technology*
+- 📫 Reach me: [aryansahoo10008@gmail.com](mailto:aryansahoo10008@gmail.com)
 
 ---
 
-## 🌐 Connect with me
-- GitHub: YOUR_GITHUB_LINK  
-- LinkedIn: YOUR_LINKEDIN_LINK  
+### 🌐 Connect with me
+<p align="center">
+<a href="" /></a>
+<a href="https://www.linkedin.com/in/shakti-prasad-jena/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:pshakti895@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
-## 🚀 Tech Stack
-YOUR_TECH_STACK (Example: Python | HTML | CSS | JavaScript | MySQL | Git | GitHub | VS Code)
+### 🚀 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sprasad-2002&show_icons=true&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p align="center">
+<img src="https://img.shields.io/badge/Coding%20Streak-00FF00?style=for-the-badge&logo=hackaday&logoColor=black" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sprasad-2002&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sprasad-2002&layout=compact&theme=radical" />
+</p>
+
+---
+
+⭐ From [Shakti](https://github.com/Sprasad-2002)
