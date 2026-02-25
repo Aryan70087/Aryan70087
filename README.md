@@ -1,34 +1,25 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">Python Full Stack Developer | AI Enthusiast 🚀</h3>
+<h1 align="center">Hi 👋, I'm Aryan Sahoo</h1>
+<h3 align="center">Python Full Stack Developer | AI & ML Enthusiast 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Full+Stack+Developer;AI+Learner;Open+to+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Full+Stack+Developer;AI+Learner;Building+Real+World+Projects;Open+to+Opportunities" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 BCA Graduate  
-- 🔭 Currently working on *Skin Disease Detection System (Flask + EfficientNetV2B0)*
-- 🌱 Learning *Python Full Stack + SQL*
-- 👯 Looking to collaborate on *AI & Web Projects*
-- 💬 Ask me about *Python, SQL, Django, Web Technology*
-- 📫 Reach me: [aryansahoo10008@gmail.com](mailto:aryansahoo10008@gmail.com)
+- 🎓 BCA Graduate passionate about technology & problem solving  
+- 🔭 Currently building **Skin Disease Detection System** using *Flask + EfficientNetV2B0*  
+- 🌱 Learning **Advanced Python, Django, SQL & AI/ML**  
+- 👯 Open to collaborate on **AI & Web Development Projects**  
+- 💬 Ask me about **Python, SQL, Django, Web Technologies**  
+- 📫 Reach me: **aryansahoo10008@gmail.com**
 
 ---
 
-### 🌐 Connect with me
+### 🛠️ Tech Stack
 <p align="center">
-<a href="https://github.com/Aryan70087/"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://www.linkedin.com/in/aryan-sahoo-611149378/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:aryansahoo10008.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
-
-### 🚀 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -36,20 +27,19 @@
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan70087&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Coding%20Streak-00FF00?style=for-the-badge&logo=hackaday&logoColor=black" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan70087&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aryan70087&layout=compact&theme=radical" />
 </p>
 
 ---
 
-⭐ From [Aryan](https://github.com/Aryan70087)
+### 🌐 Connect With Me
+<p align="center">
+<a href="https://github.com/Aryan70087/"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/aryan-sahoo-611149378/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:aryansahoo10008@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+⭐ *“Code. Learn. Build. Improve. Repeat.”*
