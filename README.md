@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm YOUR_NAME
+### YOUR_ROLE (Example: Python Full Stack Developer | AI Enthusiast)
 
-<!--
-**Aryan70087/Aryan70087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 YOUR_EDUCATION  
+- 🔭 Working on YOUR_PROJECT  
+- 🌱 Learning YOUR_TECH_STACK  
+- 👯 Open to collaboration in YOUR_FIELD  
+- 💬 Skills: YOUR_SKILLS  
+- 📫 Reach me: YOUR_EMAIL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me
+- GitHub: YOUR_GITHUB_LINK  
+- LinkedIn: YOUR_LINKEDIN_LINK  
+
+---
+
+## 🚀 Tech Stack
+YOUR_TECH_STACK (Example: Python | HTML | CSS | JavaScript | MySQL | Git | GitHub | VS Code)
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
