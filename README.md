@@ -20,8 +20,8 @@
 ### 🌐 Connect with me
 <p align="center">
 <a href="https://github.com/Aryan70087/"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://www.linkedin.com/in/shakti-prasad-jena/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:pshakti895@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/aryan-sahoo-611149378/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:aryansahoo10008.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sprasad-2002&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan70087&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
@@ -43,13 +43,13 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sprasad-2002&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan70087&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sprasad-2002&layout=compact&theme=radical" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aryan70087&layout=compact&theme=radical" />
 </p>
 
 ---
 
-⭐ From [Shakti](https://github.com/Sprasad-2002)
+⭐ From [Aryan](https://github.com/Aryan70087)
