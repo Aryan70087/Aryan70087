@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with me
 <p align="center">
-<a href="" /></a>
+<a href="https://github.com/Aryan70087" /></a>
 <a href="https://www.linkedin.com/in/shakti-prasad-jena/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:pshakti895@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
